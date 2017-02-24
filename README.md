@@ -9,7 +9,7 @@ Credit: "Global Map of Romania ©ISCGM/ NACLR"
 
 Contact: National Agency for Cadastre and Land Registration (NACLR).
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/romania.png)
+E-mail: ![email](email.png)
 
 URL: www.ancpi.ro
 
